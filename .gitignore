@@ -1,0 +1,11 @@
+# 构建与打包产物
+build/
+dist/
+
+# 本地运行产生的文件
+*.log
+
+# 工具与系统文件
+.zcode/
+Thumbs.db
+Desktop.ini
